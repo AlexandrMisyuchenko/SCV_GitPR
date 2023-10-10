@@ -150,7 +150,7 @@ git init
 
 Вернёмся к нашему удалённому репозиторию на сайте [**Github.com**](https://github.com/), чтобы нам добавить удалённый репозиторий на локальный ПК необходимо скопировать команды, который нам предлагает сайт:
 ```
-1. git удаленно добавляет источник https://github.com/AlexandrMisyuchenko/123.git
+1. git remote add origin https://github.com/AlexandrMisyuchenko/123.git
 2. git branch -M main
 3. git push -u origin main
 ```
